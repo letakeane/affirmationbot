@@ -1,7 +1,7 @@
 const affirmations = {
   happy: [
     "Today, you are brimming with energy and overflowing with joy!",
-    "Know yourself. Love yourself.",
+    "Know yourself and take pride in this moment.",
     "Your smile lights up the room!",
     "Revel in the power of being you.",
     "What a gift it is to be yourself in this moment!"
@@ -50,7 +50,8 @@ const affirmations = {
     "You deserve the life you want! Don't settle!",
     "Free yourself from procrastination and take action!",
     "Take pride and joy in your power!",
-    "You are radiant and full of vitality!"
+    "You are radiant and full of vitality!",
+    "You have the strength to see this through."
   ],
 };
 
