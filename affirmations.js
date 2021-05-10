@@ -4,14 +4,17 @@ const affirmations = {
     "Know yourself and take pride in this moment.",
     "Your smile lights up the room!",
     "Revel in the power of being you.",
-    "What a gift it is to be yourself in this moment!"
+    "What a gift it is to be yourself in this moment!",
+    "Share your joy with those around you!",
+    "Feel this joy and know that you are worthy of it."
   ],
   sad: [
     "It's okay to be sad.",
     "You are more than this heartache.",
     "Sadness is you loving yourself enough to know that you deserve more.",
     "You are worthy of happiness.",
-    "Your sadness is worthy of your time and attention."
+    "Your sadness is worthy of your time and attention.",
+    "Let this sadness show you the magnitude of your spirit."
   ],
   anxious: [
     "Breathe deeply. Feel your body and the movement of your breath.",
@@ -19,16 +22,17 @@ const affirmations = {
     "Tell me 3 things you can reach out and touch right now.",
     "Relax your shoulders and jaw.",
     "Feel the ground gently and easily supporting you.",
-    "Even if you are not fearless, you are courageous!"
+    "Even if you are not fearless, you are courageous!",
+    "Tell me about someone you love."
   ],
   tired: [
     "There is wisdom in your body. Listen when it tells you to rest!",
-    "Be sweet and gentle to yourself!",
+    "Be kind and gentle with yourself!",
     "Stop and marvel at all the growth you've been doing!",
     "Peace is as worthy as productivity.",
     "You deserve rest.",
     "Being alive is hard work! You don't need an excuse to relax.",
-    "Taking time to care for yourself is still a generous act!"
+    "Taking time to care for yourself is an act of generosity!"
   ],
   angry: [
     "You have a right to healthy boundaries!",
