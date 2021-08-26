@@ -6,4 +6,4 @@ Currently only works in Chrome, on desktop.
 
 Use the deployed app [here](https://letakeane.github.io/affirmationbot/).
 
-![initial animation](https://i.giphy.com/media/QdykXxviBNQTqMHING/source.mp4?cid=790b761122da1346d8d9ca7bed82e399155168e05b886e2e&rid=source.mp4&ct=g)
+![initial animation](https://i.giphy.com/media/QdykXxviBNQTqMHING/giphy.gif?cid=790b76119f75d0ca730adaf2b80039d3918e0537b603121b&rid=giphy.gif&ct=g)
