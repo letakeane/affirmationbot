@@ -99,7 +99,7 @@ function speak(text, initial) {
 
 function synthVoice(text, initial) {
   const synth = window.speechSynthesis;
-  const thisVoice = synth.getVoices()[30];
+  const thisVoice = synth.getVoices()[11];
   const utterance = new SpeechSynthesisUtterance();
   utterance.voice = thisVoice;
   utterance.text = text;
